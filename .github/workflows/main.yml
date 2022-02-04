@@ -10,7 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: WanderLanz/metrics@master
+      - uses: WanderLanz/metrics@main
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
