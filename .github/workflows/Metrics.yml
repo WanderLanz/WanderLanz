@@ -18,6 +18,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: UTC
+          config_display: columns
           plugin_code: yes
           plugin_code_lines: 12
           plugin_code_load: 100
