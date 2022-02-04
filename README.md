@@ -7,10 +7,10 @@
 - 💬 Ask me about anything you want, I probably don't know.
 - ⚡ Fun fact: I'm way too casual
 
-I've dabbled in C/C++, Haskell, and Scala in school (I'm not one of those crazy teenage full-stack devs)
-great-gatsby
+I've dabbled in C/C++, Haskell, and Scala  
+Mostly a hobbyist for now, I'm not one of those crazy young full-stack devs.
 
 [![WanderLanz's GitHub stats](https://github-readme-stats.vercel.app/api?username=WanderLanz&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WanderLanz&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<!img src="/github-metrics.svg" alt="Metrics" width="100%">
+<!img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
