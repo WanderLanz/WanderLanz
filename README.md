@@ -8,9 +8,11 @@
 - ⚡ Fun fact: I'm way too casual
 
 I've dabbled in C/C++, Haskell, and Scala  
-Mostly a hobbyist for now, I'm not one of those crazy young full-stack devs.
+Mostly a hobbyist for now, I'm not one of those crazy young full-stack devs.  
+stats below curtesy of [lowlighter/metrics](https://github.com/lowlighter/metrics)
 
-[![WanderLanz's GitHub stats](https://github-readme-stats.vercel.app/api?username=WanderLanz&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![WanderLanz's GitHub stats](https://github-readme-stats.vercel.app/api?username=WanderLanz&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!img src="/github-metrics.svg" alt="Metrics" width="100%">
-<!img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
+
+<!-- img align="center" src="/github-metrics.svg" alt="Metrics" width="400" -->
