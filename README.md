@@ -13,6 +13,6 @@ stats below curtesy of [lowlighter/metrics](https://github.com/lowlighter/metric
 
 <!-- [![WanderLanz's GitHub stats](https://github-readme-stats.vercel.app/api?username=WanderLanz&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
+<img align="center" src="/github-metrics.md" alt="Metrics" width="100%">
 
 <!-- img align="center" src="/github-metrics.svg" alt="Metrics" width="400" -->
