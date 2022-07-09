@@ -1,12 +1,13 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on School 🙂.
-- 🌱 I’m currently learning Bash, MIPS, GLSL.
+- 🌱 I’m currently learning Rust-isms and web stuff.
 - 👯 I’m looking to collaborate on... stuff.
 - 💬 Ask me anything.
 - ⚡ Fun fact: I'm way too casual
 
-Amateur in C[99]/C++[11], Haskell, Scala.  
+Complete amateur in [ C[99]/C++[11], Haskell, Scala, Java, Processing, Rust, MIPS32, Bash/sh, OpenGL, html/css/js ].  
+I have yet to learn Web server shtuffs.  
 Filthy college student  
 Useless stats below curtesy of [lowlighter](https://github.com/lowlighter)[/metrics](https://github.com/lowlighter/metrics)
 
