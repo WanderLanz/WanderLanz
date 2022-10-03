@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on School 🙂.
-- 🌱 I’m currently learning Rust-isms and web stuff.
+- 🌱 I’m currently learning web & database stuff.
 - 👯 I’m looking to collaborate on... stuff.
 - 💬 Ask me anything.
 - ⚡ Fun fact: I'm way too casual
