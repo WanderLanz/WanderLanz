@@ -6,7 +6,7 @@
 - 💬 Ask me anything.
 - ⚡ Fun fact: I'm way too casual
 
-Complete amateur in [ C[99]/C++[11], Haskell, Scala, Java, Processing, Rust, MIPS32, Bash/sh, OpenGL, html/css/js ].  
+Complete amateur in [ C[99]/C++[11], Haskell, Scala, Java, Processing, Rust, Python3, MIPS32, Bash/sh, OpenGL, html/css/js ].  
 I have yet to learn the in's and out's of networking.  
 college student  
 Useless stats below curtesy of [lowlighter](https://github.com/lowlighter)[/metrics](https://github.com/lowlighter/metrics)
