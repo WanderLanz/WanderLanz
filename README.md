@@ -7,8 +7,8 @@
 - ⚡ Fun fact: I'm way too casual
 
 Complete amateur in [ C[99]/C++[11], Haskell, Scala, Java, Processing, Rust, MIPS32, Bash/sh, OpenGL, html/css/js ].  
-I have yet to learn Web server shtuffs.  
-Filthy college student  
+I have yet to learn the in's and out's of networking.  
+college student  
 Useless stats below curtesy of [lowlighter](https://github.com/lowlighter)[/metrics](https://github.com/lowlighter/metrics)
 
 <!-- [![WanderLanz's GitHub stats](https://github-readme-stats.vercel.app/api?username=WanderLanz&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats) -->
