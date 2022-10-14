@@ -1,16 +1,17 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on School 🙂.
-- 🌱 I’m currently learning web & database stuff.
-- 👯 I’m looking to collaborate on... stuff.
+- 🌱 I’m currently learning web-backend & databases.
+- 👯 I’m always looking to collaborate.
 - 💬 Ask me anything.
 - ⚡ Fun fact: I'm way too casual
 
-Complete amateur in [ C[99]/C++[11], Haskell, Scala, Java, Processing, Rust, Python3, MIPS32, Bash/sh, OpenGL, html/css/js ].  
-I have yet to learn the in's and out's of networking.  
-college student  
-Useless stats below curtesy of [lowlighter](https://github.com/lowlighter)[/metrics](https://github.com/lowlighter/metrics)
+Complete amateur in [ C, C++, Haskell, Scala, Java, Processing, Rust, Python3, MIPS32, OpenGL, HTML/CSS/JavaScript, Bash/sh, Lua].
+
+I have yet to learn the in's and out's of networking.
+
+Stats below curtesy of [lowlighter/metrics](https://github.com/lowlighter/metrics)
 
 <!-- [![WanderLanz's GitHub stats](https://github-readme-stats.vercel.app/api?username=WanderLanz&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
