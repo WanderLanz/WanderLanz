@@ -10,11 +10,13 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
+          use_prebuilt_image: yes
+          clean_workflows: all
           user: WanderLanz
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: UTC
-          config_display: columns
+          config_display: regular
           plugin_code: yes
           plugin_code_lines: 12
           plugin_code_load: 100
