@@ -10,7 +10,7 @@
   <a href="https://wakatime.com/@ea083a35-17e6-4b1f-8233-5682120e7371"><img src="https://wakatime.com/badge/user/ea083a35-17e6-4b1f-8233-5682120e7371.svg?style=for-the-badge" alt="Total time coded since May 18 2022" /></a>
 </div>
 
-### About Me
+#### About Me
 
 - 🔭 I’m currently working on a B.S. in Computer Science 🙂.
 - 🌱 I’m currently learning web-backend & databases.
@@ -18,11 +18,11 @@
 - 💬 Ask me anything.
 - ⚡ Fun fact: I am a tubist 😎
 
-### Stats
+#### Stats
 
 <a href="https://github.com/lowlighter/metrics"><img align="center" src="/github-metrics.svg" alt="Metrics" width="100%"></a>
 
-### Languages
+#### Languages
 
 <!-- Systems & General -->
 ![MIPS32](https://img.shields.io/badge/MIPS32-00599C?style=for-the-badge)
@@ -47,20 +47,20 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### Operating Systems
+#### Operating Systems
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![WSL](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-### Development Tools
+#### Development Tools
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![VMWare](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-### Office & Creative Tools
+#### Office & Creative Tools
 
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
