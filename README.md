@@ -20,6 +20,10 @@
 
 #### Stats
 
+<!-- [![WanderLanz's Profile Stats](https://github-readme-stats.vercel.app/api?username=WanderLanz&show_icons=true&bg_color=30,B93413,601E65&title_color=FFF&text_color=FFF&icon_color=33B8D9&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WanderLanz&langs_count=10&bg_color=30,B93413,601E65&title_color=FFF&text_color=FFF&icon_color=33B8D9)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <a href="https://github.com/lowlighter/metrics"><img align="center" src="/github-metrics.svg" alt="Metrics" width="100%"></a>
 
 #### Languages
