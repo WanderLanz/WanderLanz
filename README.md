@@ -1,4 +1,12 @@
 <h1 align="center">Hi there 👋</h1>
+
+<div align="center">
+<a href="https://github.com/lowlighter/metrics">
+  <img src="/metrics-header.svg" alt="Metrics header" width="90%" align="center"><br>
+  <img src="/metrics-languages.svg" alt="Metrics languages" width="90%">
+</a>
+</div>
+
 <!-- I haven't done anything with them, but I own the accounts
   <a href="https://linkedin.com/in/lance-warden-tu2024"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/lwarden1"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
@@ -7,10 +15,10 @@
   <a href="https://discord.com/user"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 -->
 <div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width="50%" alt="WanderLanz's Profile Stats" src="https://github-readme-stats.vercel.app/api?username=WanderLanz&show_icons=true&bg_color=30,B93413,601E65&title_color=FFF&text_color=FFF&icon_color=33B8D9&count_private=true"/></a>
+
   <a href="https://wakatime.com/@ea083a35-17e6-4b1f-8233-5682120e7371"><img src="https://wakatime.com/badge/user/ea083a35-17e6-4b1f-8233-5682120e7371.svg?style=for-the-badge" alt="Total time coded since May 18 2022" /></a>
 </div>
-
-#### About Me
 
 - 🔭 I’m currently working on a B.S. in Computer Science 🙂.
 - 🌱 I’m currently learning web-backend & databases.
@@ -18,13 +26,9 @@
 - 💬 Ask me anything.
 - ⚡ Fun fact: I am a tubist 😎
 
-#### Stats
-
 <!-- [![WanderLanz's Profile Stats](https://github-readme-stats.vercel.app/api?username=WanderLanz&show_icons=true&bg_color=30,B93413,601E65&title_color=FFF&text_color=FFF&icon_color=33B8D9&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WanderLanz&langs_count=10&bg_color=30,B93413,601E65&title_color=FFF&text_color=FFF&icon_color=33B8D9)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<a href="https://github.com/lowlighter/metrics"><img align="center" src="/github-metrics.svg" alt="Metrics" width="100%"></a>
 
 #### Languages
 
