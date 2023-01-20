@@ -1,4 +1,4 @@
-<!-- I haven't done anything with them, but I own the accounts
+<!-- I haven't done anything with them, but I own the accounts you're free to check them out
   <a href="https://linkedin.com/in/lance-warden-tu2024"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/lwarden1"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
   <a href="https://hackerrank.com/lwarden1"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
@@ -9,7 +9,7 @@
 # Hi there 👋 [![Total time coded since May 18 2022](https://wakatime.com/badge/user/ea083a35-17e6-4b1f-8233-5682120e7371.svg?style=flat-square)](https://wakatime.com/@ea083a35-17e6-4b1f-8233-5682120e7371)
 
 - 🔭 I’m currently working on a B.S. in Computer Science 🙂.
-- 🌱 I’m currently learning web-backend & databases.
+- 🌱 I’m currently learning cybersecurity & mobile development.
 - 👯 I’m always looking to collaborate.
 - 💬 Ask me anything.
 - ⚡ Fun fact: I am a tubist 😎
@@ -20,7 +20,7 @@
 
 ### 🈷️ Languages
 
-<!-- Systems & General -->
+<!-- General -->
 ![MIPS32](https://img.shields.io/badge/MIPS32-00599C?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
