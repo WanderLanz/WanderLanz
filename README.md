@@ -1,5 +1,4 @@
 <!-- I haven't done anything with them, but I own the accounts you're free to check them out
-  <a href="https://linkedin.com/in/lance-warden-tu2024"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/lwarden1"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
   <a href="https://hackerrank.com/lwarden1"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
   <a href="https://discord.com/user"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
@@ -7,6 +6,7 @@
 
 # Hi there 👋 [![Total time coded since May 18 2022](https://wakatime.com/badge/user/ea083a35-17e6-4b1f-8233-5682120e7371.svg?style=flat-square)](https://wakatime.com/@ea083a35-17e6-4b1f-8233-5682120e7371)
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lance-warden-tu2024)
 [![ProtonMail](https://img.shields.io/badge/Email-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:wanderlanz@proton.me)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://twitch.tv/wanderlanz)
 
@@ -48,31 +48,11 @@
 ![SHell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![LaTex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
-</details><details><summary><h3>🔧 Tools</h3></summary>
-
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
-![VMWare](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
-
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-
 </details><details><summary><h3>🏠 Operating Systems</h3></summary>
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![WSL](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-
-</details><details><summary><h3>🗄️Databases</h3></summary>
-  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 </details>
 <a href="https://github.com/lowlighter/metrics">
