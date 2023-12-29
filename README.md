@@ -23,6 +23,8 @@
 <details><summary><h3>🈷️ Languages</h3></summary>
 
 ![MIPS32](https://img.shields.io/badge/MIPS32-00599C?style=for-the-badge)
+![ARM](https://img.shields.io/badge/ASM-00599C?style=for-the-badge)
+![x86](https://img.shields.io/badge/x86-00599C?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Zig](https://img.shields.io/badge/zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)
