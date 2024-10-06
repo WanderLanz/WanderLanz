@@ -6,15 +6,17 @@
 
 # Hi there 👋 [![Total time coded since May 18 2022](https://wakatime.com/badge/user/ea083a35-17e6-4b1f-8233-5682120e7371.svg?style=flat-square)](https://wakatime.com/@ea083a35-17e6-4b1f-8233-5682120e7371)
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lance-warden-tu2024)
+<!-- [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lance-warden-tu2024) -->
 [![ProtonMail](https://img.shields.io/badge/Email-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:wanderlanz@proton.me)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://twitch.tv/wanderlanz)
 
-- 🔭 I’m currently working on a B.S. in Computer Science 🙂.
-- 🌱 I’m currently learning cybersecurity & mobile development.
+<!-- - 🔭 I’m currently working on a B.S. in Computer Science 🙂. -->
+- 🌱 I’m currently learning gamedev.
 - 👯 I’m always looking to collaborate.
 - 💬 Ask me anything.
 - ⚡ Fun fact: I am a tubist 😎
+
+"You manage things, you lead people."
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="WanderLanz's Profile Stats" src="https://github-readme-stats.vercel.app/api?username=WanderLanz&show_icons=true&bg_color=30,B93413,601E65&title_color=FFF&text_color=FFF&icon_color=33B8D9&count_private=true"/></a> -->
 
